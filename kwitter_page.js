@@ -53,5 +53,5 @@ function updateLike(message_id)
       });
 }
 function logout() {
-      window.location = "index.html";
+      window.location = "kwitter_room.html";
 }
